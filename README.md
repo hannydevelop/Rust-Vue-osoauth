@@ -4,7 +4,13 @@ This is a Rust/Vue based project. This project shows how to use [Oso](osohq.com)
 
 ## Project Set Up
 
-This root of this project consists of two folders (Backend and Frontend). The Backend holds the codes for Rust and Oso authorization while the Frontend holds the Vue.js codes. To run this project in your working environment, navigate to the frontend of the application on your terminal `cd Frontend` and run Vue.js serve command:
+This root of this project consists of two folders (Backend and Frontend). The Backend holds the codes for Rust and Oso authorization while the Frontend holds the Vue.js codes. To run this project in your working environment, navigate to the frontend of the application on your terminal `cd Frontend` install dependencies with the command below:
+
+```
+npm install
+```
+
+Run Vue.js serve command:
 
 ```
 npm run serve
