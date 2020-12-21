@@ -1,10 +1,10 @@
 # Rust-Vue-osoauth
 
-This is a Rust/Vue based project. This project shows how to use [Oso](osohq.com) for Role-Based Access Control Authorization (RBAC) authorization. The article that best explains how we were able to come up with this project is found [here](https://hannydevelop.hashnode.dev/role-based-access-control-with-oso-rust-and-vuejs-ckiy2x3mq0u7e33s16g30hp7i). I give credit to the team who developed the [Rust-Oso quick start](https://github.com/osohq/oso-rust-quickstart), the inspiration for this project was drawn from there. I also thank the wonderful oso team for letting me try out this wonderful open source product and writing an article based on my end user experience.
+This is a Rust/Vue based project. This project shows how to use [Oso](osohq.com) for Role-Based Access Control (RBAC) authorization. The article that best explains how I was able to come up with this project is found [here](https://hannydevelop.hashnode.dev/role-based-access-control-with-oso-rust-and-vuejs-ckiy2x3mq0u7e33s16g30hp7i). I give credit to the team who developed the [Rust-Oso quick start](https://github.com/osohq/oso-rust-quickstart), the inspiration for this project was drawn from there. I also thank the wonderful oso team for letting me try out this wonderful open source product and writing an article based on my end user experience.
 
 ## Project Set Up
 
-This root of this project consists of two folders (Backend and Frontend). The Backend holds the codes for Rust and Oso authorization while the Frontend holds the Vue.js codes. To run this project in your working environment, navigate to the frontend of the application on your terminal `cd Frontend` install dependencies with the command below:
+The root of this project consists of two folders (Backend and Frontend). The Backend holds the codes for Rust and Oso authorization while the Frontend holds the Vue.js codes. To run this project in your working environment, navigate to the frontend of the application on your terminal `cd Frontend` and install dependencies with the command below:
 
 ```
 npm install
@@ -22,7 +22,7 @@ Open another terminal instance and navigate to the project's backend `cd Backend
 cargo run
 ```
 
-Navigate to `http://localhost:8080/` or `http://localhost:8080/` if port `8080` is occupied. You should be greeted with this page below
+Navigate to `http://localhost:8080/` or `http://localhost:8081/` if port `8080` is occupied. You should be greeted with this page below
 
 <div align="center">
 <img src="https://i.ibb.co/KDRzFkJ/2.png">
