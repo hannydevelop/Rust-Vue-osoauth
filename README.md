@@ -1,6 +1,6 @@
 # Rust-Vue-osoauth
 
-This is a Rust/Vue based project. This project shows how to use [Oso](osohq.com) for Role-Based Access Control (RBAC) authorization. The article that best explains how I was able to come up with this project is found [here](https://hannydevelop.hashnode.dev/role-based-access-control-with-oso-rust-and-vuejs-ckiy2x3mq0u7e33s16g30hp7i). I give credit to the team who developed the [Rust-Oso quick start](https://github.com/osohq/oso-rust-quickstart), the inspiration for this project was drawn from there. I also thank the wonderful oso team for letting me try out this wonderful open source product and writing an article based on my end user experience.
+This is a Rust/Vue based project. This project shows how to use [Oso](osohq.com) for Role-Based Access Control (RBAC) authorization. The article that best explains how I was able to come up with this project can be found [here](https://hannydevelop.hashnode.dev/role-based-access-control-with-oso-rust-and-vuejs-ckiy2x3mq0u7e33s16g30hp7i). I give credit to the team who developed the [Rust-Oso quick start](https://github.com/osohq/oso-rust-quickstart), the inspiration for this project was drawn from there. I also thank the wonderful oso team for letting me try out this wonderful open source product and writing an article based on my end user experience.
 
 ## Project Set Up
 
